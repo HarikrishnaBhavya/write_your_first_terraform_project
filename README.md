@@ -10,5 +10,5 @@
 ![Problems with Terraform](images/terraform_10.png)
 ![Terraform Interview Questions](images/terraform_11.png)
 ..
-.
+..
 ..
